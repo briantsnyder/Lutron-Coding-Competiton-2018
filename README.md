@@ -5,8 +5,9 @@ Lutron Programming Competition - Python
 This repository contains the technical documentation and details of the Programming Competition used by Lutron - specifically for Python.
 
 Game
-Mancala
-Mancala Rules
+Mancala - https://en.wikipedia.org/wiki/Mancala
+Mancala Rules - https://www.thesprucecrafts.com/how-to-play-mancala-409424
+
 #Before Running Please update your user id in config.py to be your full name.
 
 #How To Run: Have python 3.4 or greater installed
